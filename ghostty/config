@@ -4,6 +4,7 @@ background = 181818
 foreground = dcdcdc
 
 font-size = 16
+font-family = "Ioskeley Mono"
 
 background-opacity = 0.85
 background-blur-radius = 50
