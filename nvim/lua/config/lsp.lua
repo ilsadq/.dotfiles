@@ -9,7 +9,7 @@ vim.lsp.config('*', {
   root_markers = { '.git' },
 })
 
-vim.lsp.enable({ 'lua', 'zls', 'go', 'ocaml', 'rust' })
+vim.lsp.enable({ 'lua', 'zls', 'go', 'ocaml', 'rust', 'nim' })
 
 vim.diagnostic.config({
   virtual_lines = true
